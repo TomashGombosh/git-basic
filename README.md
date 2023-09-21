@@ -1,8 +1,12 @@
 # Git basic
+
+Git basic training for AQA add
+
+
 Git basic training for AQA
 This is the coolest project I've ever seen!
 
-## Table of contents
+
 * [Preconditions](#preconditions)
     * [Windows](#windows)
     * [Mac OS](#macos)
@@ -25,3 +29,4 @@ This is the coolest project I've ever seen!
 * Run `npm install`
 * Run `npm run lint` - detect the code style issue 
 * Run `npm run test` - to run Jest Unit test
+
