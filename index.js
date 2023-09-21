@@ -1,12 +1,12 @@
 
-const args = process.argv.slice(2);
+const arguments = process.argv.slice(2);
 
-args.forEach((val, index) => {
+arguments.forEach((val, index) => {
     console.log(`${index}: ${val}`);
 }
 );
 
-const sum = args.reduce((a, b) => {
+const sum = arguments.reduce((a, b) => {
     return parseInt(a) + parseInt(b);
 });
 
