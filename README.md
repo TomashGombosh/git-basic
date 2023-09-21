@@ -1,3 +1,6 @@
+# Git basic
+Git basic training for AQA
+This is the coolest project I've ever seen!
 
 ## Table of contents
 * [Preconditions](#preconditions)
